@@ -67,15 +67,15 @@ This project can be used for:
    - LCD displays warning alert
 
 ## Project images
-![Photo1](images/Intelligent_Proximity_Alert_System_photo9)
+![Photo1](images/Intelligent_Proximity_Alert_System_photo9.jpg)
 
 [Click Here For Other Images](images)
 
 ## Project Code
-[Click Here For the Code](code)
+[Click Here For the Code](code/Intelligent_Proximity_Alert_System_project_on_16th_may_2026.ino)
 
 ## Project Demo Video
-[Click Here for the Demonstration video on the Project]()
+[Click Here for the Demonstration video on the Project](https://youtu.be/MvA31uv82MY?si=FGgKhPHqmRqTveKb)
 
 ## Challenges Faced
 
